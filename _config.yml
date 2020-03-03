@@ -2,5 +2,5 @@ title: Informe
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: minima
 
